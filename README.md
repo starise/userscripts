@@ -5,6 +5,11 @@ A collection of browser userscripts for improving, extending, and customizing we
 Most scripts are written for [Violentmonkey](https://violentmonkey.github.io/) and should also work
 with compatible userscript managers such as Tampermonkey, unless otherwise noted.
 
+## Scripts
+
+- [Substack: Pangram scan text for AI](substack-pangram-scan.user.js): adds Substack's native
+  Pangram scan to standalone post pages.
+
 ## Installation
 
 1. Install a userscript manager such as [Violentmonkey](https://violentmonkey.github.io/).
