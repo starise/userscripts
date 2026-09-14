@@ -1,11 +1,13 @@
 // ==UserScript==
-// @version      0.1.0
+// @version      0.1.1
 // @name         Substack: Pangram scan text for AI
 // @author       Andrea Brandi
 // @namespace    https://github.com/starise/userscripts
 // @description  Adds Substack's native Pangram scan to standalone post pages.
+// @match        https://*.substack.com/*
 // @match        https://*/p/*
 // @run-at       document-idle
+// @noframes
 // @grant        none
 // @downloadURL  https://raw.githubusercontent.com/starise/userscripts/main/substack-pangram-scan.user.js
 // @updateURL    https://raw.githubusercontent.com/starise/userscripts/main/substack-pangram-scan.user.js
